@@ -1,0 +1,65 @@
+
+{
+   
+    "modeli": [
+      {
+        "naziv": "Charger",
+        "kolicina": 50,
+        "cena": 25000
+      },
+      {
+        "naziv": "Challenger",
+        "kolicina": 40,
+        "cena": 28000
+      },
+      {
+        "naziv": "Demon",
+        "kolicina": 30,
+        "cena": 20000
+      }
+    ]
+  
+  
+}
+{  
+    "motori": [
+        {
+          
+            "motor": "8.4L V10",
+            "kolicina": 20,
+            "cena": 150000
+        },
+        {
+            
+            "motor": "6.2L V8",
+            "kolicina": 30,
+            "cena": 84000
+        },
+        {
+            
+            "motor": "6.2L V8",
+            "kolicina": 25,
+            "cena": 70000
+        }
+        {
+            
+            "motor": "6.2L V8",
+            "kolicina": 25,
+            "cena": 70000
+        }
+    ]
+}
+{
+    "kocioni sistem": [
+      {
+        "name": "sport brake system",
+        "price": 3000,
+        "quantity": 10
+      }
+    ]
+  }
+  {
+    "mode": "SRT Sport",
+    "opis": "Ukljucuje sportsko iskustvo voznje u SRT vozilima prilagodjavanjem gasa i tacaka promene menjaca i podesavanja vesanja kako bi se obezbedile bolje performanse.",
+    "activation_method": "Bira se preko namenskog SRT dugmeta na volanu."
+  }
